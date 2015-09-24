@@ -1,0 +1,1 @@
+A basic REST API using Java and Spring which can respond to requests for weather. The API takes a location and responds with current conditions.
